@@ -28,8 +28,8 @@ I am pursuing the combination of theoretical modeling and system implementation 
 </ol>
 <font size=5><b>Research Funds</b></font>
 <ol type="1">
-<li><font size=3><b>PI</b>:基于无线射频供电的移动感知医疗系统(国家级大学生创新项目,已结题)</font></li>
-<li><font size=3><b>PI</b>:基于移动医用机器人供电的智能医疗系统(浙江省新苗人才计划项目,已结题)</font></li>
+<li><font size=3><b>PI</b>:基于无线射频供电的移动感知医疗系统(国家级大学生创新项目,已结题,RMB10000)</font></li>
+<li><font size=3><b>PI</b>:基于移动医用机器人供电的智能医疗系统(浙江省新苗人才计划项目,已结题,RMB10000)</font></li>
 </ol>
 <font size=5><b>Research Services</b></font>
 <ul type="square">
