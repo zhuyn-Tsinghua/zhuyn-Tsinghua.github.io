@@ -6,7 +6,7 @@
 
 <p><img border="0" src="Longfei.png" height="200" align="left" style="border: 0px solid #FFFFFF; padding-left: 10px; padding-right: 30px; padding-top: 0px; padding-bottom: 1px">
 <font face="Georgia">
-<font face="helvetica", size=7, color=#778899>Yinan Zhu</font>
+  <font size=7>Yinan Zhu</font>
 <br>
 <font face="helvetica", size=4><b>School of Software and BNRist, Tsinghua University</b></font>
 <br>
