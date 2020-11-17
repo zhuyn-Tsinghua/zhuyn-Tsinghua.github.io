@@ -32,10 +32,11 @@ I am pursuing the combination of theoretical modeling and system implementation 
 <li><font size=3><b>PI</b>:基于移动医用机器人供电的智能医疗系统(浙江省新苗人才计划项目,已结题)</font></li>
 </ol>
 <font size=5><b>Research Services</b></font>
-<font size=3>Reviewer for IEEE Transactions on Communications (TCOM), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Wireless Communications (TWC), IEEE Access and ACM Transactions on Internet of Things (TIOT)</font><br>
-<font size=3>IEEE Student Member, ACM Member</font>
-<font size=4><b>Links</b></font> 
-<br>  
-<font size=3><a href="https://zhuyn-tsinghua.github.io/list.html">Upcoming IoT Security-Related Conference List</a></font>     
-<br>  
+<ul type="square">
+<li><font size=3>Reviewer for IEEE Transactions on Communications (TCOM), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Wireless Communications (TWC), IEEE Access and ACM Transactions on Internet of Things (TIOT)</font></li>
+<li><font size=3>IEEE Student Member, ACM Member</font></li>
+</ul>
+<font style="line-height:80%;" size=4><b>Links</b></font>
+<font size=3><a href="https://zhuyn-tsinghua.github.io/list.html">Upcoming IoT Security-Related Conference List</a></font> 
+<br> 
 LAST UPDATED: 11/2020 | COPYRIGHT © YINAN ZHU
