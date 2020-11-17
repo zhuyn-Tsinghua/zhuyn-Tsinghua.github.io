@@ -1,7 +1,7 @@
 # zhuyn-Tsinghua.github.io
-<table rules="none" align="center">
+<table rules="none" frame="void" align="center">
 <td height="150" width="150" valign="center" border="0" style="border: 0px; padding:0px">
-<img border="0" src="yinan.jpg" height="120" width="120" align="left" style="border: 0px solid #FFFFFF; padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px"></td>
+<img border="0" src="yinan.jpg" height="130" width="130" align="left" style="border: 0px solid #FFFFFF; padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px"></td>
 <td width="800" valign="center" border="0" style="border: 0px; padding:0px">
 <font size=6>Yinan Zhu</font>
 <br>
@@ -13,9 +13,9 @@
 </td>
 </table>
 <font size=5><b>Research Interests</b></font>
-I am pursuing the combination of theoretical modeling and system implementation to push forward the developmentof IoT applications. My research interests include:
+I am pursuing the combination of theoretical modeling and system implementation to push forward the development of IoT applications. My research interests include:
 <ul>
-  <li><font size=3><b>IoT Secuirty</b>: IoT Device Authentication (e.g., RFID tag Authentication), RF-based Person/Object Identification, etc</font></li>
+  <li><font size=3><span class="STYLE10"><b>IoT Secuirty</b>: IoT Device Authentication (e.g., RFID tag Authentication), RF-based Person/Object Identification, etc</span></font></li>
   <li><font size=3><b>Mobile and Ubiquitous Computing</b>: RF-based Sensing for Smart Applications</font></li>
   <li><font size=3><b>Energy Harvesting for IoT systems</b>: Wireless Charging, Rechargeable Sensor Networks, etc</font></li>
 </ul>
