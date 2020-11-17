@@ -1,8 +1,8 @@
 # zhuyn-Tsinghua.github.io
-<table border="0" align="center" height="100">
-<td height="100" width="100" valign="center" bgcolor="ffffff" style="padding:0px">
+<table border="0" bordercolor="white" align="center">
+<td height="100" width="100" valign="center" border="0" style="padding:0px">
 <img border="0" src="yinan.jpg" height="100" width="100" align="left" style="border: 0px solid #FFFFFF; padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px"></td>
-<td width="800" valign="center" bgcolor="ffffff" style="padding:40px">
+<td width="800" valign="center" border="0" style="padding:0px">
 <font size=6>Yinan Zhu</font>
 <br>
 <font size=4><b>School of Software and BNRist, Tsinghua University</b></font>
