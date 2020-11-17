@@ -1,5 +1,5 @@
 # zhuyn-Tsinghua.github.io
-<table align="center" border="0">
+<table border="0" align="center">
 <td width="150" valign="center" bgcolor="ffffff" style="padding:40px">
 <img border="0" src="yinan.jpg" width="150" align="left" style="border: 0px solid #FFFFFF; padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px"></td>
 <td width="800" valign="center" bgcolor="ffffff" style="padding:40px">
@@ -36,7 +36,7 @@ I am pursuing the combination of theoretical modeling and system implementation 
 <li><font size=3>Reviewer for IEEE Transactions on Communications (TCOM), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Wireless Communications (TWC), IEEE Access and ACM Transactions on Internet of Things (TIOT)</font></li>
 <li><font size=3>IEEE Student Member, ACM Member</font></li>
 </ul>
-<font style="line-height:80%;" size=4><b>Links</b></font>
+<font style="line-height:80%;" size=4><b>Links:</b></font>
 <font size=3><a href="https://zhuyn-tsinghua.github.io/list.html">Upcoming IoT Security-Related Conference List</a></font> 
 <br> 
 LAST UPDATED: 11/2020 | COPYRIGHT © YINAN ZHU
