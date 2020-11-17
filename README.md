@@ -4,7 +4,7 @@
 <center>
 <TD width="800" valign="center" bgcolor="ffffff" style="padding:40px">
 
-<p><img border="0" src="Longfei.png" height="200" align="left" style="border: 0px solid #FFFFFF; padding-left: 10px; padding-right: 30px; padding-top: 0px; padding-bottom: 1px">
+<p><img border="0" src="yinan.jpg" height="200" align="left" style="border: 0px solid #FFFFFF; padding-left: 10px; padding-right: 30px; padding-top: 0px; padding-bottom: 1px">
 <font face="Georgia">
   <font size=7>Yinan Zhu</font>
 <br>
