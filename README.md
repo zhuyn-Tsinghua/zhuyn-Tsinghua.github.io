@@ -1,7 +1,7 @@
 # zhuyn-Tsinghua.github.io
 <table frame="void" rules="none" align="center" width="80%">
 <td height="150" width="20%" valign="center" border="0" style="border: 0px; padding:0px">
-<img border="0" src="yinan.jpg" height="100%" width="90%" align="left" style="border: 0px solid #FFFFFF; padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px"></td>
+<img border="0" src="yinan.jpg" height="100%" width="80%" align="left" style="border: 0px solid #FFFFFF; padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px"></td>
 <td width="80%" valign="center" border="0" style="border: 0px; padding:0px">
 <font size=6>Yinan Zhu</font>
 <br>
