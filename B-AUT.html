@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -81,3 +82,88 @@
 </div>
 </body>
 </html>
+=======
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>B-AUT</title>
+<style type="text/css">
+<!--
+.STYLE1 {font-family: "Courier New", Courier, monospace}
+.STYLE2 {
+	color: #FF0000;
+	font-style: italic;
+}
+.STYLE3 {color: #0000FF}
+.STYLE4 {color: #FF0000}
+-->
+</style>
+</head>
+
+<body>
+<div align="center">
+  <h1 class="text-center" aligh="center">Pinpointing All Counterfeit Tags: Generic Architecture for Batch RFID Tag Authentication</h1>
+  <a href="https://zhuyn-tsinghua.github.io/"><b>Yinan Zhu</b></a>, <a href=""><b>Chunhui Duan</b></a>, <a href="http://www.thss.tsinghua.edu.cn/publish/soft/3641/2019/20190823084735761189149/20190823084735761189149_.html"><b>Xuan Ding</b></a>
+  <br>
+  <a href="http://tns.thss.tsinghua.edu.cn/" style="color:#323232">School of Software and BNRist, Tsinghua University</a><br>
+</div>
+<div class="row"><h3 id="overview">Overview</h3>
+  <hr>
+    <div class="col-md-6">
+      <p class="STYLE1">Today, RFID 
+        tag authentication is critical but still challenging because of counterfeiting 
+        attacks. Prior works leverage the unique 
+        signal features incurred by tags' manufacture imperfection as fingerprints to authenticate single tag. Nevertheless, they 
+        fail to realize the batch authentication of large-scale tags and
+        pinpoint the counterfeit tags in physical space, which are vital
+        for large-scale RFID applications (e.g., warehouse inventory).</p>
+      <p><span class="STYLE1">This paper presents the generic architecture for batch tag 
+        authentication called <span class="STYLE2">B-AUT</span> to <span class="STYLE3">simultaneously authenticate
+      large-scale tags (<a>&ge;</a> 100 tags) and pinpoint the counterfeit tags in physical space</span>,
+      which is fully compatible with EPC-global Gen2 standard and applicable to different signal features extracted by different RF devices without any hardware or firmware modifications. To verify the performance of <em>B-AUT</em> in extreme cases, we implement an example
+      prototype on B-AUT with the most ordinary commodity RFID device (i.e., one RFID reader with single antenna), where
+      phase shift is leveraged as the simplest fingerprint.
+      Experiment results show that it can achieve the pinpointing
+      accuracy of up to 92% when the counterfeiting attack is slight. In addition,
+      we specify that the minimal theoretical upper bound of the number of counterfeit tags with same EPC is 13, regardless
+      of the total tags' number</span>.</p>
+    </div>
+    <div class="col-md-6">
+      <div align="center"><img class="img-rounded mx-auto" width="75%" style="border: 2px solid #323232" src="B-AUT.png" align="middle">
+        </div>
+    </div>
+</div><br><br>
+
+  <div class="row">
+  <h3 id="video">Experiment Results </h3>
+  <hr>
+  <div style="text-align: center;">
+    <p align="left" class="STYLE1">The evaluation metrics include the average pinpointing accuracy (APA), FAR, FRR and average time overhead (ATO). Please note that the test examples are on the basis of the most ordinary 
+      commodity RFID device (i.e., one RFID reader with single
+      antenna), where phase shift is leveraged as the simplest fingerprint
+      and the utilized methods including clustering, genuineness validation and localization in B-AUT are very crude and cost-efficient <span class="STYLE4">(because we want to verify the performance of <em>B-AUT</em> in extreme cases)</span>.  So the results reflect the worst performance
+      of built system on B-AUT, that is, utilizing stronger
+      RFID devices, superior type of fingerprints and well-refined
+      methods will promote the performance to a very large degree.</p>
+    <p align="left" class="STYLE1">1. The Impact of Different Scenarios (<em>K</em>, <em>U</em>): <em>U</em> denoted by <em>x</em>&#215;<em>y</em> means <em>y</em> groups counterfeit tags and each gourp containing <em>x</em> counterfeit tags with duplicate EPC. The difference between APA(1<sup>st</sup>) and APA(after 2<sup>nd</sup>) is that goods are registered
+    at the entrance of warehouse in the first round of authentication, while due to update mechanism in B-AUT the registered fingerprints are updated after the second round of authentication, thereby the APA(after 2<sup>nd</sup>) is much higher. From the Table below, we can find that APA, FAR and FRR all degrade (e.g., APA from 92.5% to 63.5%) with the increasing number of counterfeit tags, but fortunately the tendency of degradation is convergent. The variance of <em>U</em> makes a greater influence on APA than that of <em>K</em>. In addtion, the Figure shows the approximately linear growth of ATO with increasing number of tags, thereby verifying that B-AUT is applicable to large-scale RFID systems for batch authentication. </p>
+    <p align="center" class="STYLE1"><img src="acc.png" width="46%" height="282" align="middle" class="img-rounded mx-auto" style="border: 2px solid #323232"><img src="time.png" width="50%" height="282" align="middle" class="img-rounded mx-auto" style="border: 2px solid #323232"></p>
+    <p align="left" class="STYLE1">2. The Impact of Different Tag Models: We further test five different tag models from three leading providers (i.e., Alien, Impinj and NXP) to verify the performance of <em>B-AUT</em>. The results show that both chip model and antenna model will determine the pinpointing accuracy and to a certain extent <em>B-AUT</em> is effectiveness and applicable to all tag models. The hardware differences between tags from Impinj company are small and those from Alien company are relatively bigger. This conclusion can help user choose appropriate tag models in different applications. For example, critical applications requiring high security are recommended to use tags from Alien company and some wireless sensing applications requiring small hardware differences of tags are recommended to use tags from Impinj company. </p>
+    <p align="center" class="STYLE1"><img class="img-rounded mx-auto" width="60%" height="258" style="border: 2px solid #323232" src="tagmodel.png" align="middle"></p>
+    <p align="left" class="STYLE1">3. The Impact of Different Parameters <em>&#948;</em>, <em>&#968;</em>, <em>error, f</em>: From the Figures below, we can draw following conclusions: Firstly, bigger <em>&#948;</em> corresponded to more coarse-grained clustering mainly leads to higher FAR and thus lower APA. Secondly, smaller <em>&#968;</em> corresponded to  tighter similarity matching will cause higher FRR and APA, however unfortunately bigger <em>&#968;</em> corresponded to looser similarity matching will cause higher FAR and also APA. Therefore, the value of <em>&#968;</em> requires well-refined tradeoff. Thirdly, bigger <em>error</em> corresponded to larger searching space of dubious tags is preferred so that the APA can be improved, while ATO will increase likewise. So trading off value of<em> error</em> is similarly important. Fourthly, we can find that B-AUT is resistant to different communication channels.</p>
+    <p align="center" class="STYLE1"><img src="delta.png" width="45%" height="275" align="middle" class="img-rounded mx-auto" style="border: 2px solid #323232"><img src="psi.png" width="45%" height="275" align="middle" class="img-rounded mx-auto" style="border: 2px solid #323232"></p>
+    <span class="STYLE1"><img src="error.png" width="45%" height="275" align="middle" class="img-rounded mx-auto" style="border: 2px solid #323232"><img src="channel.png" width="45%" height="275" align="middle" class="img-rounded mx-auto" style="border: 2px solid #323232"></span></div>
+
+
+</div>
+<br>
+<br>
+
+
+<div id="copyright" align="center">
+  <p>LAST UPDATED: 01/2021 | COPYRIGHT &#64; YINAN ZHU (School of Software and BNRist, Tsinghua University) </p>
+</div>
+</body>
+</html>
+>>>>>>> 1e180efbd2fdecc468c719dbd276e73a4338c55e
