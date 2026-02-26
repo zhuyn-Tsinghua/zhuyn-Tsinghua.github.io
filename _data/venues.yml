@@ -1,0 +1,43 @@
+"IEEE TMC":
+  url: https://www.computer.org/csdl/journal/tm
+  color: "#C06000"
+
+"ACM UbiComp":
+  url: https://dl.acm.org/journal/imwut
+  color: "#339933"
+
+"IEEE INFOCOM":
+  url: https://infocom2026.ieee-infocom.org/
+  color: "#00369f"
+
+"ACM MobiCom":
+  url: https://www.sigmobile.org/mobicom/
+  color: "#CC0000"
+
+# "IEEE SECON":
+#   url: https://secon2026.ieee-secon.org/
+#   color: "#8080FF"
+
+# "IEEE IoTJ":
+#   url: https://ieee-iotj.org/
+#   color: "#0080FF"
+
+# "ACM MobiHoc":
+#   url: https://www.sigmobile.org/mobihoc/2025/
+#   color: "#990000"
+
+# "IEEE ICPADS":
+#   url: http://ieee-icpads.org.cn/
+#   color: "#990000"
+
+# "IEEE GLOBECOM":
+#   url: http://ieee-icpads.org.cn/
+#   color: "#6000C0"
+
+# "ACM SIGMETRICS":
+#   url: https://www.sigmetrics.org/sigmetrics2026/
+#   color: "#C06000"
+
+# "IEEE PerCom":
+#   url: https://www.sigmetrics.org/sigmetrics2026/
+#   color: "#C06000"
