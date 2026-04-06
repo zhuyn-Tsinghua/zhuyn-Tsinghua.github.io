@@ -33,5 +33,5 @@ nav_order: 3
 ## Student Supervision 
 I work as a mentor/collaborator to help supervise:
 - Jingqi Lin, Hong Kong University of Science and Technology, co-supervised with Prof. Qian Zhang
-- Jiawei Xue, Ziang Wang, Beijing Institute of Technology, co-supervised with Prof. Chunhui Duan, with INFOCOM/TOSN publications
+- Jiawei Xue, Ziang Wang, co-supervised with Prof. Chunhui Duan, with INFOCOM/TOSN publications
 
