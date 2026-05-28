@@ -24,10 +24,10 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Ph.D. candidate at the Department of Computer Science and Engineering, [The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), under supervision of [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/), from Sep 2022 to Mar 2026. Before that, I received my M.Eng. degree in 2022 from the school of Software and BNRist, [Tsinghua University](http://tns.thss.tsinghua.edu.cn/), under supervision of [Prof. Xuan Ding](https://www.thss.tsinghua.edu.cn/faculty/dingxuan.htm) and [Prof. Zheng Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/) in the research group of [Prof. Yunhao Liu](https://people.gix.tsinghua.edu.cn/yunhao/). I was also very fortunate to work with [Prof. Chunhui Duan](https://tns.thss.tsinghua.edu.cn/people.html).
+I obtained my Ph.D. degree in March 2026 from the Department of Computer Science and Engineering, [The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), under supervision of [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/). Before that, I received my M.Eng. degree in 2022 from the school of Software and BNRist, [Tsinghua University](http://tns.thss.tsinghua.edu.cn/), under supervision of [Prof. Xuan Ding](https://www.thss.tsinghua.edu.cn/faculty/dingxuan.htm) and [Prof. Zheng Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/) in the research group of [Prof. Yunhao Liu](https://people.gix.tsinghua.edu.cn/yunhao/). I was also very fortunate to work with [Prof. Chunhui Duan](https://tns.thss.tsinghua.edu.cn/people.html).
 
 
-<p>:star2: <strong style="color:#000080;">I'm on the job market and open to opportunities - whether from universities (e.g., postdoc) or top internet companies (e.g., top talent programs). Please feel free to contact me. </strong></p>
+<!-- <p>:star2: <strong style="color:#000080;">I'm on the job market and open to opportunities - whether from universities (e.g., postdoc) or top internet companies (e.g., top talent programs). Please feel free to contact me. </strong></p> -->
 
 
 <i class="fa fa-envelope"></i> <b>E-mail:</b>  yzhudf@cse.ust.hk / zhuyn1997@gmail.com &ensp; <i class="fa fa-location-arrow"></i> <b>Address:</b> Room 4030, HKUST, Hong Kong 
@@ -36,11 +36,11 @@ I am currently a Ph.D. candidate at the Department of Computer Science and Engin
 
 - **Mobile and Ubiquitous Sensing**: Multimodal Sensing (Vision: RGB, IR, Multispectral; Wireless Signals: RFID, WiFi, mmWave; Wearable: IMU, etc.), Low-cost Spectral imaging, Domain Generalization for Mobile Applications, Smart Healthcare
 
-- **LLMs for Real-World Applications**: AI for Education, MLLMs/VLMs for Industrial Power Systems, Embodied AI with RLHF, Multimodal RL, LLM Self-Evolution 
+- **LLMs for Real-World Applications**: AI for Education, MLLMs/VLMs for PV Systems, Multimodal RL, Self-Evolution 
 
 - **IoT Systems**: RFID and Backscatter Communication, Energy Harvesting for WSNs, etc.
 
-I have published over 30 papers on top-tier conferences and journals such as ACM MobiCom, IEEE INFOCOM, ACM UbiComp/IMWUT, IEEE SECON, IEEE SIGMETRICS, ACM SenSys, IEEE TMC, IEEE IoTJ, IEEE TVT, ACM TOSN. I'm currently working on Multimodal LLMs and Embodied AI. 
+I have published over 30 papers on top-tier conferences and journals such as ACM MobiCom, IEEE INFOCOM, ACM UbiComp/IMWUT, IEEE SECON, IEEE SIGMETRICS, ACM SenSys, IEEE TMC, IEEE IoTJ, IEEE TVT, ACM TOSN. I'm currently working on Multimodal Sensing and Mobile Computing. 
 
 
 
