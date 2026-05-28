@@ -14,6 +14,7 @@ nav_order: 3
 - IEEE Transactions on Vehicular Technology (TVT)
 - IEEE Transactions on Wireless Communications (TWC)
 - ACM Transactions on Internet of Things (TIOT)
+- IEEE Internet of Things Journal (IoTJ) 
 - IEEE Access
 
 
