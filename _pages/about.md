@@ -30,13 +30,15 @@ I obtained my Ph.D. degree in March 2026 from the Department of Computer Science
 <!-- <p>:star2: <strong style="color:#000080;">I'm on the job market and open to opportunities - whether from universities (e.g., postdoc) or top internet companies (e.g., top talent programs). Please feel free to contact me. </strong></p> -->
 
 
-<i class="fa fa-envelope"></i> <b>E-mail:</b>  yzhudf@cse.ust.hk / zhuyn1997@gmail.com &ensp; <i class="fa fa-location-arrow"></i> <b>Address:</b> Room 4030, HKUST, Hong Kong 
+<i class="fa fa-envelope"></i> <b>E-mail:</b>  yzhudf@cse.ust.hk / zhuyn1997@gmail.com  
+
+<i class="fa fa-location-arrow"></i> <b>Address:</b> Room 4030, HKUST, Hong Kong 
 
 <p><h4><b>:bulb: Research interests:</b></h4></p>
 
 - **Mobile and Ubiquitous Sensing**: Multimodal Sensing (Vision: RGB, IR, Multispectral; Wireless Signals: RFID, WiFi, mmWave; Wearable: IMU, etc.), Low-cost Spectral imaging, Domain Generalization for Mobile Applications, Smart Healthcare
 
-- **LLMs for Real-World Applications**: AI for Education, MLLMs/VLMs for PV Systems, Multimodal RL, Self-Evolution 
+- **LLMs for Mobile Applications**: AI for Education, MLLMs/VLMs for PV Systems, Multimodal RL and Self-Evolution 
 
 - **IoT Systems**: RFID and Backscatter Communication, Energy Harvesting for WSNs, etc.
 
