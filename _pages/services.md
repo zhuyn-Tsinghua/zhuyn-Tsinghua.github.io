@@ -27,7 +27,7 @@ nav_order: 3
 ## Conference Volunteer Coordinator
 - IEEE ICPADS 2021
 
-## Teaching
+## Teaching Assistant
 - COMP4621 Computer Communication Networks, HKUST, Spring 2023
 - COMP1021 Introduction to Computer Science, HKUST, Fall 2023, Fall 2024, Fall 2025
 
