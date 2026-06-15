@@ -36,11 +36,11 @@ I obtained my Ph.D. degree in March 2026 from the Department of Computer Science
 
 <p><h4><b>:bulb: Research interests:</b></h4></p>
 
-- **Mobile and Ubiquitous Sensing**: Multimodal Sensing (Vision: RGB, IR, Multispectral; Wireless Signals: RFID, WiFi, mmWave; Wearable: IMU, etc.), Low-cost Spectral imaging, Domain Generalization for Mobile Applications, Smart Healthcare
+- **Mobile and Ubiquitous Sensing**
 
-- **LLMs for Mobile Applications**: AI for Education, MLLMs/VLMs for PV Systems, Multimodal RL and Self-Evolution 
+- **LLMs for Mobile Applications**
 
-- **IoT Systems**: RFID and Backscatter Communication, Energy Harvesting for WSNs, etc.
+- **RFID, WSN and IoT Systems**
 
 I have published over 30 papers on top-tier conferences and journals such as ACM MobiCom, IEEE INFOCOM, ACM UbiComp/IMWUT, IEEE SECON, IEEE SIGMETRICS, ACM SenSys, IEEE TMC, IEEE IoTJ, IEEE TVT, ACM TOSN. I'm currently working on Multimodal Sensing and Mobile Computing. 
 
