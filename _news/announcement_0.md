@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-:mortar_board: **Passed the doctoral dissertation defense!** 
+:mortar_board: **Passed the doctoral dissertation defense!** The thesis is about Ubiquitous IoT Sensing.
  
