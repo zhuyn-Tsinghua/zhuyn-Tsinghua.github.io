@@ -82,7 +82,7 @@ ninja.data = [{
           title: ':tada: Congratulations! Our Paper “FruitPhone” on Smartphone-based Spectral Sensing for Fruits got accepted...',
           description: "",
           section: "News",},{id: "news-tada-congratulations-our-two-papers-dd-livm-for-pv-defect-inspection-and-blinic-for-home-based-smart-healthcare-got-accepted-by-acm-mobicom-2025",
-          title: ':tada: Congratulations! Our Two Papers “DD-LIVM” for PV defect inspection and “Blinic” for...',
+          title: ':tada: Congratulations! Our Two Papers “DD-LIVM” for PV Defect Inspection and “Blinic” for...',
           description: "",
           section: "News",},{id: "news-tada-congratulations-our-paper-flourspec-got-aceepted-by-acm-sensys-2026",
           title: ':tada: Congratulations! Our Paper “FlourSpec” got aceepted by ACM SenSys 2026.',
