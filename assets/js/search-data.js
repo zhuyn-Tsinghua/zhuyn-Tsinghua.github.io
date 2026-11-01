@@ -124,11 +124,4 @@ ninja.data = [{
         handler: () => {
           window.open("https://scholar.google.com/citations?user=9VPxouYAAAAJ", "_blank");
         },
-      },{
-        id: 'social-dblp',
-        title: 'Dblp',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://dblp.org/pid/229/9836.html", "_blank");
-        },
       },];
